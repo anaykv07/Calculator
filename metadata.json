@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro",
+  "description": "Advanced multi-mode calculator with scientific precision, 2D function graphing, programmer bitwise tools, financial calculators, unit conversions, and interactive calculation tape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
